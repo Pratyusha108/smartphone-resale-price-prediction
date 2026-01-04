@@ -21,7 +21,6 @@ Used-phone pricing is often inconsistent and subjective. This project builds an 
 - Split: **70% train / 15% validation / 15% test** :contentReference[oaicite:3]{index=3}  
 - Target: **normalized_used_price** (and a derived High/Low band using the training median). :contentReference[oaicite:4]{index=4}  
 
-> Data note: If the dataset can’t be shared publicly, this repo provides methodology + results and keeps data local.
 
 ---
 
