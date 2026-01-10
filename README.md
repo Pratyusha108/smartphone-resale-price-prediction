@@ -72,5 +72,4 @@ See `/assets` for:
 ---
 
 ## Full Report & Slides
-- `reports/Week-5.pdf`
-- `reports/slides.pdf`
+- `Used_Smartphone_Analytics_SAI PRATYUSHA GORAPALLI.pptx`
